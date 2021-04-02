@@ -15,7 +15,7 @@
     "tailwind-css",
     "webpack"
   ],
-  "author": "Anisur Rahman",
+  "author": "Anisur Rahman <anisurlist3@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/anisur3036/laravel-mix-tailwindcss-setup/issues"
