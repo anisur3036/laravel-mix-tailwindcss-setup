@@ -1,0 +1,24 @@
+{
+  "name": "laravel-mix-tailwindcss-setup",
+  "version": "0.1.0",
+  "description": "A quick setup tailwindcss with laravel-mix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisur3036/laravel-mix-tailwindcss-setup.git"
+  },
+  "keywords": [
+    "\"laravel-mix\"",
+    "\"tailwind-css\"",
+    "\"webpack\""
+  ],
+  "author": "Anisur Rahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anisur3036/laravel-mix-tailwindcss-setup/issues"
+  },
+  "homepage": "https://github.com/anisur3036/laravel-mix-tailwindcss-setup#readme"
+}
