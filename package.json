@@ -11,9 +11,9 @@
     "url": "git+https://github.com/anisur3036/laravel-mix-tailwindcss-setup.git"
   },
   "keywords": [
-    "\"laravel-mix\"",
-    "\"tailwind-css\"",
-    "\"webpack\""
+    "laravel-mix",
+    "tailwind-css",
+    "webpack"
   ],
   "author": "Anisur Rahman",
   "license": "MIT",
